@@ -1,6 +1,6 @@
 {
   "name": "window-postgres-installer",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A helper package to install Postgresql binaries on a window system",
   "main": "lib/index.js",
   "type": "module",
