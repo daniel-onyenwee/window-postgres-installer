@@ -1,6 +1,6 @@
 # window-postgres-installer
 
-A helper package to install Postgresql binaries on a window system
+A helper package to install Postgresql binaries on a window system.
 
 ## Usage
 
@@ -27,5 +27,4 @@ main()
 
 ## Credits
 
-Embedded Postgres was created by Lei Nelissen for [BMD
-Studio](https://bmd.studio). It is based on [zonky's embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres).
+This package will not be possible without [zonky's embedded-postgres-binaries](https://github.com/zonkyio/embedded-postgres).
