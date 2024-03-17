@@ -9,7 +9,11 @@ npm i window-postgres-installer
 ```
 
 ```ts
-import { installPostgres, getPostgresBinaries, isPostgresInstalled } from 'window-postgres-installer';
+import { 
+    installPostgres,
+    getPostgresBinaries,
+    isPostgresInstalled 
+} from 'window-postgres-installer'
 
 async function main() {
     await installPostgres()
