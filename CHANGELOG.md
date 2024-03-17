@@ -7,4 +7,7 @@
 ## v0.1.1 (2024-03-16)
 
 - Uninstall dependence -> node-7z-archive and recursive-readdir-files.
-- Bump up package version.
+
+## v0.1.2 (2024-03-17)
+
+- Change README credits section
