@@ -8,6 +8,6 @@
 
 - Uninstall dependence -> node-7z-archive and recursive-readdir-files.
 
-## v0.1.2 (2024-03-17)
+## v0.1.2 (2024-03-18)
 
-- Change README credits section
+- Change the README credits and usage section.
